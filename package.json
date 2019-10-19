@@ -48,6 +48,7 @@
     "commander": "~1.1.1",
     "moment": "^2.24.0",
     "openurl": "^1.1.0",
+    "package.json": "^2.0.1",
     "request": "^2.88.0",
     "requirejs": "~2.1.5",
     "superagent": "^4.1.0"
