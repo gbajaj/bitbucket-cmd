@@ -1,0 +1,15 @@
+{
+  "auth": {
+    "url": "https://source.fitbit.com/rest/api/1.0/projects/ANDROID/repos/fitbitandroid/",
+    "user": "gbajaj",
+    "token": "ODc0MzQzMTY1NTE1Op8/64WJyKuQan61pIkhmtkNpmEv"
+  },
+  "reviewers": [
+    {
+      "username": "aahmed"
+    },
+    {
+      "username": "gleach"
+    }
+  ]
+}
